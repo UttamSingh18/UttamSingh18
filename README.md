@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Uttam Singh! 👋
 
-<!--
-**UttamSingh18/UttamSingh18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year B.Tech Computer Science student at SRM University-AP.
 
-Here are some ideas to get you started:
+💻 Currently learning **C Programming** and strengthening my programming fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Exploring different areas of technology, especially **Artificial Intelligence, Machine Learning, and Cybersecurity**.
+
+🔍 Interested in problem-solving, learning new technologies, and building projects through practical experience.
+
+### 🛠️ Currently Learning
+- C Programming
+- Programming Fundamentals
+- Problem Solving
+
+### 🎯 My Goals
+- Build a strong foundation in Computer Science.
+- Work on practical coding projects.
+- Explore different domains of technology.
+- Contribute to open-source projects.
+
+### 📫 Connect With Me
+- GitHub: [@UttamSingh18](https://github.com/UttamSingh18)
+- gmail: [uttamsingh18jul2008@gmail.com)
+
+---
+⭐ *Learning, building, and improving one step at a time.*
